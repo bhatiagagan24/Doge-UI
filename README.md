@@ -11,6 +11,10 @@ I will make a webpage using these componenets and users can determine what they 
 After that, Users can open the HTML text file of components, and select the code of the componenet they need. Users also need to select the corresponding CSS code as well and place it into their stylesheet.
 
 
-
-
 Like other CSS frameworks which have a very nice looking website with tutorials and everything, I am also working on the website of this project as well.
+
+
+Some Basic Menus are as follows and these are responsive when you hover over them. 
+![search_bar_pic](https://user-images.githubusercontent.com/47947926/84058552-07ac0c00-a9d7-11ea-93cb-c949bf5ccee1.JPG)
+
+
