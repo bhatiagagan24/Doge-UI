@@ -1,0 +1,68 @@
+1) SEARCH BAR TWO :-
+HTML :-
+<div class="search_bar_two">
+        
+        <input type="textbox" class="search_box_two" placeholder="Enter here to Search">
+        <button type="submit" class="search_button_two">Submit</button>
+    </div> 
+
+CSS :-
+.search_bar_two{
+    background-color: tomato;
+    width:59.7%;
+}
+.search_box_two{
+    height: 35px;
+    width: 800px;
+    border-radius: 10px;
+    border-color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+}
+.search_button_two{
+    border-radius: 5px;
+    background-color: teal;
+    height: 35px;
+    width: 100px;
+    color: white;
+    cursor: pointer;
+    transition-duration: 0.2s;
+}
+
+.search_button_two:hover{
+    background-color: white;
+    color: teal;
+}
+
+
+2) SEARCH BAR THREE :-
+
+HTML :-
+ <div class="search_bar_three">
+        <input type="textbox" class="search_box_three" placeholder="Search Here">
+        <button class="search_button_three">Search</button>
+    </div>
+
+CSS :-
+.search_box_three{
+    width: 400px;
+    height: 30px;
+    border: 1px red solid;
+    padding-left:20px;
+    padding-right: 20px;
+}
+.search_button_three{
+    height:  30px;
+    width: 100px;
+    border: 1px green solid;
+    background-color: white;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+.search_button_three:hover{
+    background-color: #fff30f;
+    color: green;
+    
+
+}
